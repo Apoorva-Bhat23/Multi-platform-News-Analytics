@@ -47,11 +47,11 @@ A full-stack URL shortener and analytics dashboard built for tracking news artic
 ---
 
 ## 📸 Screenshots
+- Login page:
+  ![Screenshot 2025-06-05 161751](https://github.com/user-attachments/assets/69e48a83-32ee-4acd-ae2b-39f556175c74)
 
-> *(Add screenshots here if available)*  
-- Admin Dashboard  
-- Shorten URL Panel  
-- Click Stats Modal  
+- Admin Dashboard:
+  ![Screenshot 2025-06-19 131537](https://github.com/user-attachments/assets/d85a6956-0f9d-4b3a-9ae4-fe84001600df)
 
 ---
 
