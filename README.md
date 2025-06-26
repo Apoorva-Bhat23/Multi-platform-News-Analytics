@@ -10,7 +10,7 @@ A full-stack Multi-platform News Analytics dashboard built for tracking news art
   Generate short links for each platform from a news article URL, with optional custom slugs.
 
 - 📊 **Platform-Wise Click Tracking**  
-  Real-time analytics showing total clicks and platform-specific performance.
+  Real-time analytics showing total clicks and platform-specific click stats.
 
 - 🧑‍💻 **Admin Dashboard**  
   Manage links, monitor statistics, and configure platform settings in a clean interface.
@@ -19,7 +19,7 @@ A full-stack Multi-platform News Analytics dashboard built for tracking news art
   Automatically extracts article slugs or lets users input descriptive titles.
 
 - 📱 **Optimized for Sharing**  
-  Create links ready to share on WhatsApp, Telegram, Twitter, and Facebook.
+  Create short urls ready to share on WhatsApp, Telegram, Twitter, and Facebook.
 
 - 🔐 **User Authentication**  
   Secure login for admin-level access and activity tracking.
@@ -41,8 +41,7 @@ A full-stack Multi-platform News Analytics dashboard built for tracking news art
 
 **Other**  
 - Custom short URL generator  
-- IP & platform click logging  
-- Modular routing & controller setup  
+- IP & platform click and timestamp logging  
 
 ---
 
