@@ -50,7 +50,12 @@ A full-stack Multi-platform News Analytics dashboard built for tracking news art
   ![Screenshot 2025-06-05 161751](https://github.com/user-attachments/assets/69e48a83-32ee-4acd-ae2b-39f556175c74)
 
 - Admin Dashboard:
-  ![Screenshot 2025-06-19 131537](https://github.com/user-attachments/assets/d85a6956-0f9d-4b3a-9ae4-fe84001600df)
+  <img width="2000" height="1363" alt="4  Dashboard" src="https://github.com/user-attachments/assets/825a2d24-a77f-4c13-b244-1e675f80afbd" />
+
+- Platform specific click stats:
+ <img width="2000" height="1364" alt="5  Platform specific click stats" src="https://github.com/user-attachments/assets/1520ae12-428b-432e-8018-10897c24c5e3" />
+
+
 
 ---
 
