@@ -1,4 +1,4 @@
-aaaaa# Multi-Platform News Analytics
+aa# Multi-Platform News Analytics
 
 A full-stack Multi-platform News Analytics dashboard built for tracking news article performance across multiple social media platforms. Ideal for publishers and admins to generate, manage, and monitor short links, along with timestamp and clicks stat logs tailored for 4 socical media platforms such as Facebook, Twitter, Telegram, and WhatsApp.
 
