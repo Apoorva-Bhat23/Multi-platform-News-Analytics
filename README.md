@@ -1,3 +1,4 @@
+---
 Multi-Platform News Analytics
 ---
 
@@ -24,7 +25,6 @@ A full-stack Multi-platform News Analytics dashboard built for tracking news art
 - 🔐 **User Authentication**  
   Secure login for admin-level access and activity tracking.
 
----
 
 ## ⚙️ Tech Stack
 
@@ -43,7 +43,6 @@ A full-stack Multi-platform News Analytics dashboard built for tracking news art
 - Custom short URL generator  
 - IP & platform click and timestamp logging  
 
----
 
 ## 📸 Screenshots
 - Login page:
@@ -55,9 +54,6 @@ A full-stack Multi-platform News Analytics dashboard built for tracking news art
 - Platform specific click stats:
  <img width="2000" height="1364" alt="5  Platform specific click stats" src="https://github.com/user-attachments/assets/1520ae12-428b-432e-8018-10897c24c5e3" />
 
-
-
----
 
 ## 🚀 Getting Started
 
